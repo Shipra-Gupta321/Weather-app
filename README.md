@@ -28,7 +28,7 @@ It is a responsive web application that allows users to search for real-time wea
 
 <hr>
 
-## **🛠 Tech Stack **
+## 🛠 Tech Stack 
 
 * React (Functional Components & Hooks) – Main frontend framework.<br>
 * JavaScript (ES6+) – App logic, state management, API calls.<br>
