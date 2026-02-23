@@ -30,13 +30,13 @@ It is a responsive web application that allows users to search for real-time wea
 
 ## **🛠 Tech Stack (React Weather App)**
 
--React (Functional Components & Hooks) – Main frontend framework.<br>
--JavaScript (ES6+) – App logic, state management, API calls.<br>
--Custom Hooks – For reusable logic (like fetching weather data).<br>
--OpenWeatherMap API – Real-time weather information.<br>
--HTML5 & CSS3 – Styling and layout.<br>
--Git & GitHub – Version control.<br>
--GitHub Pages – Live deployment.<br>
+*React (Functional Components & Hooks) – Main frontend framework.<br>
+*JavaScript (ES6+) – App logic, state management, API calls.<br>
+*Custom Hooks – For reusable logic (like fetching weather data).<br>
+*OpenWeatherMap API – Real-time weather information.<br>
+*HTML5 & CSS3 – Styling and layout.<br>
+*Git & GitHub – Version control.<br>
+*GitHub Pages – Live deployment.<br>
 
 
 
