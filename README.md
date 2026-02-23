@@ -20,6 +20,7 @@ It is a responsive web application that allows users to search for real-time wea
 ## **🖼 Screenshots**
 
 **🌤️ Home View**
-![Uploading Screenshot 2026-02-23 123650.png…]()
+<img width="1912" height="910" alt="Screenshot 2026-02-23 123650" src="https://github.com/user-attachments/assets/4870fafa-b699-4658-8355-612e2685cfda" />
+
 
 
