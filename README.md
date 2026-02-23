@@ -28,7 +28,7 @@ It is a responsive web application that allows users to search for real-time wea
 
 <hr>
 
-## **🛠 Tech Stack (React Weather App)**
+## **🛠 Tech Stack **
 
 * React (Functional Components & Hooks) – Main frontend framework.<br>
 * JavaScript (ES6+) – App logic, state management, API calls.<br>
@@ -48,7 +48,21 @@ It is a responsive web application that allows users to search for real-time wea
 * API integration with async/await using OpenWeatherMap API for real-time weather data
 * Responsive & interactive UI deployed on GitHub Pages for live preview
 
+<hr>
 
+## **🛡 License – Weather App**
+
+**License Type:**
+Educational & Learning Purpose
+
+**Usage Guidelines:**
+This project is built for practice, learning, and portfolio purposes.
+You are welcome to view, fork, and study the code to improve your own skills.
+Commercial use is not allowed.
+
+**Credits:**
+Real-time weather data provided by OpenWeatherMap API.
+App developed using React, JavaScript, HTML, and CSS.
 
 
 
